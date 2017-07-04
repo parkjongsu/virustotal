@@ -31,7 +31,7 @@ namespace assignment1
     {
 
 
-        string scan = "";
+        string scan = ""; 
         string vaccine = "";
         string result = "";
         string update = "";
