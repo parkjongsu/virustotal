@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>DynamicLanguageRuntime</id>
+    <version>1.1.2</version>
+    <title>DynamicLanguageRuntime</title>
+    <authors>DLR Contributors, Microsoft</authors>
+    <owners>DLR Contributors, Microsoft</owners>
+    <licenseUrl>http://dlr.codeplex.com/license</licenseUrl>
+    <projectUrl>http://dlr.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Dynamic Language Runtime enables language developers to more easily create dynamic languages for the .NET platform.</description>
+    <summary>The Dynamic Language Runtime enables language developers to more easily create dynamic languages for the .NET platform.</summary>
+    <language>en-US</language>
+    <tags>dynamic dlr</tags>
+  </metadata>
+</package>
